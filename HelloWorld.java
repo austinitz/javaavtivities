@@ -1,9 +1,9 @@
 /** 
  * The HelloWorldApp class implements an application that
- * simply prints "Hello World!" to standard output.
+ * simply prints "Kamusta Mundo!" to standard output.
  */
-clas helloWorldApp {
+class HelloWorldApp {
     public static void main(String[] args) {
-        System.out.rintln("Hello World!); // Display the string.
+        System.out.println("Kamusta Mundo!"); // Display the string.
     }
 }
